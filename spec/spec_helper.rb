@@ -1,0 +1,1 @@
+require File.expand_path('../embedded_javascript_spec', __FILE__)
